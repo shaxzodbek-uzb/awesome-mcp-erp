@@ -1,0 +1,24 @@
+{
+  "name": "awesome-mcp-erp",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A curated list of Model Context Protocol (MCP) servers, agents, and production patterns for ERP, CRM, accounting, and business software.",
+  "scripts": {
+    "test": "npx -y awesome-lint",
+    "lint": "npx -y awesome-lint"
+  },
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "mcp",
+    "model-context-protocol",
+    "erp",
+    "crm",
+    "agents"
+  ],
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaxzodbek-uzb/awesome-mcp-erp.git"
+  }
+}
