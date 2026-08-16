@@ -33,6 +33,7 @@ Entries are real, maintained, and documented projects, each with a one-line note
 - [mcp-abap-adt (fr0ster)](https://github.com/fr0ster/mcp-abap-adt) - MCP server for SAP ABAP development via ADT, with CRUD on ABAP artifacts, where-used/dependency analysis, and transport management across ECC, S/4HANA, and BTP ABAP Cloud.
 - [mcp-business-central](https://github.com/knowall-ai/mcp-business-central) - MCP server for Microsoft Dynamics 365 Business Central that performs CRUD operations on entities such as customers, contacts, sales orders, and invoices through the v2.0 API with OData filtering.
 - [mcp-server-odoo](https://github.com/ivnvxd/mcp-server-odoo) - MCP server for Odoo ERP that lets AI assistants search, read, create, update, and delete records via XML-RPC with API-key or username/password auth.
+- [erpipe-org/mcp-odoo](https://github.com/erpipe-org/mcp-odoo) - MCP server turning an Odoo 16+ database into 41 tools with approval-token gated writes, live metadata validation, per-instance routing for multi-instance estates, XML-RPC and JSON-2 transports, and optional OAuth 2.1.
 - [rakeshgangwar/erpnext-mcp-server](https://github.com/rakeshgangwar/erpnext-mcp-server) - TypeScript MCP server that connects AI assistants to ERPNext through the Frappe REST API, exposing documents as resources plus tools to query, create, update, submit, cancel, and run reports.
 
 ## CRM & Sales
@@ -53,7 +54,7 @@ Entries are real, maintained, and documented projects, each with a one-line note
 
 *MCP servers for accounting, bookkeeping, payments-adjacent, and financial-data platforms.*
 
-- [Intuit QuickBooks Online MCP Server](https://github.com/intuit/quickbooks-online-mcp-server) - Official Intuit MCP server exposing QuickBooks Online as 144 tools across 29 entity types and 11 financial reports with OAuth 2.0.
+- [Intuit QuickBooks Online MCP Server](https://github.com/intuit/quickbooks-online-mcp-server) - Official Intuit MCP server exposing QuickBooks Online as 145 tools across 29 entity types and 11 financial reports with OAuth 2.0.
 - [Plaid AI Coding Toolkit](https://github.com/plaid/ai-coding-toolkit) - Official Plaid toolkit with a sandbox MCP server providing mock data generation, documentation search, sandbox tokens, and webhook simulation.
 - [Xero Agent Toolkit](https://github.com/XeroAPI/xero-agent-toolkit) - Official Xero collection of example AI agents (LangChain, OpenAI Agents SDK, Google ADK) built on the Xero MCP server in Python and TypeScript.
 - [Xero MCP Server](https://github.com/XeroAPI/xero-mcp-server) - Official Xero MCP server for contacts, invoices, payments, accounts, payroll, and financial reports via OAuth2 custom connections.
@@ -160,6 +161,7 @@ Entries are real, maintained, and documented projects, each with a one-line note
 - [MCP Demo Day: How 10 leading AI companies built MCP servers on Cloudflare](https://blog.cloudflare.com/mcp-demo-day/) - Cloudflare case-study roundup of production remote MCP servers shipped by Stripe, Block, Atlassian, PayPal, Asana, Linear, Intercom, Sentry, Webflow, and Anthropic.
 - [Scaling MCP adoption: Cloudflare's enterprise reference architecture](https://blog.cloudflare.com/enterprise-mcp/) - Cloudflare reference architecture for enterprise MCP, covering remote servers on custom domains, Access-based auth, MCP server portals, DLP/policy enforcement, and AI Gateway token budgets.
 - [Unlocking the power of Model Context Protocol (MCP) on AWS](https://aws.amazon.com/blogs/machine-learning/unlocking-the-power-of-model-context-protocol-mcp-on-aws/) - AWS Machine Learning blog on enterprise MCP integration patterns with Amazon Bedrock, IAM-based access control, and Streamable HTTP transport for horizontal scaling.
+- [production-grade-mcp-agentic-system](https://github.com/FareedKhan-dev/production-grade-mcp-agentic-system) - Runnable reference implementation of a production MCP server: OAuth 2.1 with PKCE and JWKS validation, multi-tenant isolation via PostgreSQL row-level security, structured audit logs on a single trace id, plus circuit breakers, rate limiting and Prometheus/Jaeger wiring.
 
 ## Specs, Standards & Further Reading
 
