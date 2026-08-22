@@ -86,6 +86,7 @@ Entries are real, maintained, and documented projects, each with a one-line note
 - [Canvas LMS MCP Server (vishalsachdev)](https://github.com/vishalsachdev/canvas-mcp) - MCP server for Canvas LMS with 90+ tools and agent skills for students and educators, including privacy-first anonymization of student data.
 - [Guesty MCP Server](https://github.com/DLJRealty/guesty-mcp-server) - Connects MCP clients to a Guesty short-term-rental property-management account with 43 tools for reservations, guest messaging, pricing, financials, and calendars.
 - [Lodgify MCP Server](https://github.com/Fast-Transients/lodgify-mcp-server) - MCP server for the Lodgify vacation-rental API exposing tools to manage properties, bookings, and calendar availability.
+- [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) - Public remote Streamable HTTP MCP at https://pocketdrives.ai/mcp for searching peer-to-peer luxury, exotic, and EV rentals from independent hosts, with no authentication required.
 - [The Momentum FHIR MCP Server](https://github.com/the-momentum/fhir-mcp-server) - MCP server enabling LLM agents to perform full CRUD operations on FHIR healthcare resources through a standardized tool suite.
 
 ## Agents over Business MCP
