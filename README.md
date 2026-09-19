@@ -52,6 +52,7 @@ Entries are real, maintained, and documented projects, each with a one-line note
 
 ## Accounting & Finance
 
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 *MCP servers for accounting, bookkeeping, payments-adjacent, and financial-data platforms.*
 
 - [Intuit QuickBooks Online MCP Server](https://github.com/intuit/quickbooks-online-mcp-server) - Official Intuit MCP server exposing QuickBooks Online as 145 tools across 29 entity types and 11 financial reports with OAuth 2.0.
