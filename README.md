@@ -40,6 +40,7 @@ Entries are real, maintained, and documented projects, each with a one-line note
 
 *MCP servers for CRM and sales platforms — contacts, companies, deals, pipelines, and activities.*
 
+- [FirstSales MCP](https://developer.firstsales.io/agents/mcp-server) - Official hosted FirstSales CRM MCP for retrieving contacts, deals, lists and workflows, and creating contacts in an approved workspace via Streamable HTTP and OAuth with PKCE; requires an eligible paid plan.
 - [HubSpot MCP Server](https://developers.hubspot.com/ai-tools/mcp) - Official HubSpot MCP server (npm @hubspot/mcp-server) giving agents read/write access to CRM contacts, companies, deals, tickets, and engagements.
 - [Salesforce DX MCP Server](https://github.com/salesforcecli/mcp) - Official Salesforce MCP server exposing 60+ tools for reading and managing Salesforce orgs, metadata, data, code analysis, and LWC development.
 - [Zoho MCP](https://www.zoho.com/mcp/) - Official Zoho MCP platform connecting AI agents to Zoho CRM and other Zoho apps via standardized tools and data models.
