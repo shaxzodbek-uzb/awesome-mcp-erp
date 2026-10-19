@@ -65,6 +65,7 @@ Entries are real, maintained, and documented projects, each with a one-line note
 
 *MCP servers for online stores, marketplaces, and payment processors.*
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Official local macOS CLI and stdio MCP payment runtime with foreground owner approval for signing.
 - [BigCommerce Storefront MCP](https://www.bigcommerce.com/blog/storefront-mcp/) - Official BigCommerce Storefront MCP server letting AI agents search the catalog, build carts, and generate checkout URLs for guest shopping.
 - [PayPal MCP Server](https://github.com/paypal/paypal-mcp-server) - Official PayPal MCP server with tools for invoicing, payments, refunds, disputes, subscriptions, shipment tracking, and transaction reporting.
 - [Shopify Dev MCP](https://shopify.dev/docs/apps/build/ai-toolkit) - Official Shopify developer MCP server providing access to Shopify docs, API schemas, and code-validation tools for building apps.
